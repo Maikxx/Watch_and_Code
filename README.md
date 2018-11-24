@@ -7,3 +7,7 @@ A simple todo list I built using HTML, CSS and JavaScript.
 ```
 git clone git@github.com:Maikxx/watch-and-code.git
 ```
+
+## License
+
+This repository is licensed as [MIT](LICENSE) by [Maikel van Veen](https://github.com/maikxx).
